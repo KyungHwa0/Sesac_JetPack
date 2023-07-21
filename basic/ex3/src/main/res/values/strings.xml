@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ex3</string>
+    <string name="sesac_contact">
+        SeSAC - 웹페이지 : https://ssac.seoul.kr/, 전화번호 : 02-3667-7304, 이메일 : ssac@sba.seoul.kr
+    </string>
+    <string name="sesac_info">
+        안녕하세요. ㅇㅇㅇㅇㅇㅇㅇㅇ
+    </string>
+</resources>
